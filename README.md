@@ -1,7 +1,8 @@
 # test01
 
 This is 1st repository.
-**Markdown** is fun.**Markdown** is fun.
+**Markdown** is fun.
+
 ##Section 1
 This is section 1.
 This is my second paraguraph.
